@@ -1,0 +1,10 @@
+body{
+    background-color: #dddddd;
+    margin: 0;
+}
+
+p{
+    font-family: 'Nanum Gothic Coding', monospace;
+    text-align: center;
+    font-size: 30px;
+}
